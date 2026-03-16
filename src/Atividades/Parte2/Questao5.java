@@ -1,11 +1,11 @@
 package Atividades.Parte2;
 
-import Atividades.BaseQuestoes;
+import Atividades.BaseQuestao;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 //Diferente da questao4 pois tem q pegar dois digitos ou mais somente.
-public class Questao5 extends BaseQuestoes{
+public class Questao5 extends BaseQuestao{
     @Override
     public void executar(){
 

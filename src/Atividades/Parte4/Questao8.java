@@ -1,16 +1,15 @@
 package Atividades.Parte4;
 
+import Atividades.BaseQuestao;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import Atividades.BaseQuestoes;
 
 //Questão 8 – Oculte parte de um telefone celular.
 //Entrada: Telefone: (67) 99876-1234
 
 //Saída esperada: Telefone: (67) 9****-1234
 
-public class Questao8 extends BaseQuestoes {
+public class Questao8 extends BaseQuestao {
     @Override
     public void executar(){
         

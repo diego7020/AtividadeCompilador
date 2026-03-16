@@ -1,11 +1,10 @@
 package Atividades.Parte3;
 
+import Atividades.BaseQuestao;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import Atividades.BaseQuestoes;
-
-public class Questao6 extends BaseQuestoes {
+public class Questao6 extends BaseQuestao {
     @Override
     public void executar(){
 
